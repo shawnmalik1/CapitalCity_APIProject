@@ -1,6 +1,6 @@
 # CapitalCity_APIProject
-# DS2002 Assignment
-# Name: Shawn Malik
+### DS2002 Assignment
+### Name: Shawn Malik
 
 This is a simple API that returns the local time and UTC offset for a given capital city.
 
